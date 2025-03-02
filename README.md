@@ -15,7 +15,7 @@ Features
 - Sorts profiles based on:
   1. Highest to lowest star rating, using highest audience rating
   2. Total survey responses, if ratings are the same
-  3. Alphabetical order by first name, if both above are the same)
+  3. Alphabetical order by first name
 
 - Uses TestNG for report generation
 
