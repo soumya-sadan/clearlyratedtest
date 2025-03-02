@@ -37,9 +37,5 @@ public class ProfileData {
     return hasRating; 
     }
 
-    @Override
-    public String toString() 
-    {
-      return "Name: " + name + " | Rating: " + highestRating + " | Responses: " + totalResponses + " | Photo: " + hasPhoto + " | Rating Available: " + hasRating;
-    }
+   
 }
