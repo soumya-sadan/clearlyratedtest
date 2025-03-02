@@ -8,7 +8,6 @@ Tech Stack
 - Framework: Selenium WebDriver, TestNG
 - Build Tool: Maven
 - Design Pattern: Page Object Model
-- Test Framework : TestNG
 - Version Control: Git, GitHub
 
 Features
