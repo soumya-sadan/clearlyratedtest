@@ -1,0 +1,4 @@
+2025-03-02 23:31:40,935 DEBUG org.testng.log4testng.Logger [main] suiteXmlPath: "C:\Users\Soumya\eclipse-workspace\clearlyratedtest\src\test\resources\testrunner\testng_regression.xml"
+2025-03-02 23:31:41,563 INFO org.testng.log4testng.Logger [main] [TestNG] Running:
+  C:\Users\Soumya\eclipse-workspace\clearlyratedtest\src\test\resources\testrunner\testng_regression.xml
+
